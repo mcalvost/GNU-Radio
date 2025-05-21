@@ -12,7 +12,7 @@ INSTALLING:
 3: move into the build directory -> cd build
 
 4: then just compile and install each block -> 
-cmake ..
-make
-sudo make install
+cmake ..,
+make,
+sudo make install,
 sudo ldconfig
